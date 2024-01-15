@@ -15,7 +15,6 @@ export function CreateAdBanner() {
           <MagnifyingGlassPlus size={24} />
            Publicar anúncio
          </Dialog.Trigger>
-
         </div>
       </div>
   )
